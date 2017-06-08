@@ -136,7 +136,7 @@
                 "company": null,
                 "created_at": "2010-03-25T22:02:56Z",
                 "email": "mike@ocks.org",
-                "followers": 15250,
+                "followers": 15300,
                 "html_url": "https://github.com/mbostock",
                 "location": "San Francisco, CA",
                 "login": "mbostock",
@@ -161,8 +161,8 @@
                 "public_repos": 53,
                 "repos_url": "https://github.com/mbostock?tab=repositories"
             },
-            "sha": "32ac5b23a7ef51ae6b702e58244012e9f2c6de0f",
-            "update_date": 1496593312000
+            "sha": "a286b051d1ffb101e67f2462d168bc8206455022",
+            "update_date": 1496959780000
         },
         "tfoote": {
             "data_url": "https://raw.githubusercontent.com/kinmanz/GitFaceCV-storage/master/CVs/tfoote.GitFace.json",
