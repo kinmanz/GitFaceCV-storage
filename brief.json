@@ -130,39 +130,44 @@
         "mbostock": {
             "data_url": "https://raw.githubusercontent.com/kinmanz/GitFaceCV-storage/master/CVs/mbostock.GitFace.json",
             "profile_info": {
-                "avatar_url": "https://avatars1.githubusercontent.com/u/230541?v=3",
-                "bio": "Trying to make code and data more human. Creator of @d3. Former @nytgraphics editor. Pronounced BOSS-tock.",
+                "avatar_url": "https://avatars2.githubusercontent.com/u/230541?v=4",
+                "bio": "Code and data for humans. Founder @observablehq. Creator @d3. Former @nytgraphics. Pronounced BOSS-tock.",
                 "blog": "https://bost.ocks.org/mike/",
-                "company": null,
+                "company": "@observablehq ",
                 "created_at": "2010-03-25T22:02:56Z",
                 "email": "mike@ocks.org",
-                "followers": 15300,
+                "followers": 16739,
                 "html_url": "https://github.com/mbostock",
                 "location": "San Francisco, CA",
                 "login": "mbostock",
                 "name": "Mike Bostock",
                 "organisations": [
                     {
-                        "avatar_url": "https://avatars1.githubusercontent.com/u/430480?v=3",
+                        "avatar_url": "https://avatars2.githubusercontent.com/u/430480?v=4",
                         "html_url": "https://github.com/protovis",
                         "login": "protovis"
                     },
                     {
-                        "avatar_url": "https://avatars2.githubusercontent.com/u/1562726?v=3",
+                        "avatar_url": "https://avatars1.githubusercontent.com/u/1562726?v=4",
                         "html_url": "https://github.com/d3",
                         "login": "d3"
                     },
                     {
-                        "avatar_url": "https://avatars0.githubusercontent.com/u/5331916?v=3",
+                        "avatar_url": "https://avatars3.githubusercontent.com/u/5331916?v=4",
                         "html_url": "https://github.com/topojson",
                         "login": "topojson"
+                    },
+                    {
+                        "avatar_url": "https://avatars1.githubusercontent.com/u/30080011?v=4",
+                        "html_url": "https://github.com/observablehq",
+                        "login": "observablehq"
                     }
                 ],
-                "public_repos": 53,
+                "public_repos": 57,
                 "repos_url": "https://github.com/mbostock?tab=repositories"
             },
-            "sha": "a286b051d1ffb101e67f2462d168bc8206455022",
-            "update_date": 1496959780000
+            "sha": "a5b8e21185aff27ecddf4648b39fc6e2bf92a0b2",
+            "update_date": 1514053811000
         },
         "tfoote": {
             "data_url": "https://raw.githubusercontent.com/kinmanz/GitFaceCV-storage/master/CVs/tfoote.GitFace.json",
