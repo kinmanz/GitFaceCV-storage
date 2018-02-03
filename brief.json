@@ -136,7 +136,7 @@
                 "company": "@observablehq ",
                 "created_at": "2010-03-25T22:02:56Z",
                 "email": "mike@ocks.org",
-                "followers": 16739,
+                "followers": 17098,
                 "html_url": "https://github.com/mbostock",
                 "location": "San Francisco, CA",
                 "login": "mbostock",
@@ -163,11 +163,11 @@
                         "login": "observablehq"
                     }
                 ],
-                "public_repos": 57,
+                "public_repos": 58,
                 "repos_url": "https://github.com/mbostock?tab=repositories"
             },
-            "sha": "e222dbe24bdd45175ef907da06087de0db4e3aea",
-            "update_date": 1514059568000
+            "sha": "8e95d0d88185d2486dd4a8c5f30ee5500798372b",
+            "update_date": 1517668506000
         },
         "tfoote": {
             "data_url": "https://raw.githubusercontent.com/kinmanz/GitFaceCV-storage/master/CVs/tfoote.GitFace.json",
