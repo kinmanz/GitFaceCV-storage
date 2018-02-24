@@ -1,0 +1,135 @@
+{
+    "repos": [
+        {
+            "createdAt": "2017-04-09T18:47:20Z",
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnk4NzczMTI4Mg==",
+            "isFork": false,
+            "languages": {
+                "edges": [
+                    {
+                        "node": {
+                            "color": "#3572A5",
+                            "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                            "name": "Python"
+                        },
+                        "size": 22110
+                    }
+                ]
+            },
+            "name": "crime_classification",
+            "owner": {
+                "login": "learp"
+            },
+            "primaryLanguage": {
+                "color": "#3572A5",
+                "id": "MDg6TGFuZ3VhZ2UxNDU=",
+                "name": "Python"
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 727200,
+                "ball": 8.599124807455958,
+                "dels": 1049,
+                "len_weeks": 5,
+                "total_commits": 9,
+                "weeks": [
+                    {
+                        "a": 726504,
+                        "c": 3,
+                        "d": 151,
+                        "w": 1491696000
+                    },
+                    {
+                        "a": 121,
+                        "c": 2,
+                        "d": 6,
+                        "w": 1492300800
+                    },
+                    {
+                        "a": 291,
+                        "c": 1,
+                        "d": 208,
+                        "w": 1493510400
+                    },
+                    {
+                        "a": 218,
+                        "c": 2,
+                        "d": 123,
+                        "w": 1494115200
+                    },
+                    {
+                        "a": 66,
+                        "c": 1,
+                        "d": 561,
+                        "w": 1494720000
+                    }
+                ]
+            },
+            "updatedAt": "2017-04-09T19:29:28Z",
+            "url": "https://github.com/learp/crime_classification",
+            "watchers": {
+                "totalCount": 1
+            }
+        },
+        {
+            "createdAt": "2016-11-26T11:19:57Z",
+            "description": "It's repository store all CVs made by you in GitFace app. Be careful if you want to change something!",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "gitface.com",
+            "id": "MDEwOlJlcG9zaXRvcnk3NDgyMTM2OA==",
+            "isFork": false,
+            "languages": {
+                "edges": []
+            },
+            "name": "GitFaceCV-storage",
+            "owner": {
+                "login": "learp"
+            },
+            "primaryLanguage": null,
+            "stargazers": {
+                "totalCount": 0
+            },
+            "statistic": {
+                "adds": 989,
+                "ball": 0.18825532544939647,
+                "dels": 4,
+                "len_weeks": 2,
+                "total_commits": 9,
+                "weeks": [
+                    {
+                        "a": 813,
+                        "c": 7,
+                        "d": 3,
+                        "w": 1479600000
+                    },
+                    {
+                        "a": 176,
+                        "c": 2,
+                        "d": 1,
+                        "w": 1513468800
+                    }
+                ]
+            },
+            "updatedAt": "2016-11-26T11:19:57Z",
+            "url": "https://github.com/learp/GitFaceCV-storage",
+            "watchers": {
+                "totalCount": 1
+            }
+        }
+    ],
+    "summary": {
+        "total_adds": 728189,
+        "total_ball": 8.787380132905355,
+        "total_commits": 18,
+        "total_dels": 1053
+    }
+}
