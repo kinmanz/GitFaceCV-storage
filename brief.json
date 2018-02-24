@@ -127,6 +127,27 @@
             "sha": "bedd566730a9bdc092bbe505f36cf058bc8b000e",
             "update_date": 1496593416000
         },
+        "learp": {
+            "data_url": "https://raw.githubusercontent.com/kinmanz/GitFaceCV-storage/master/CVs/learp.GitFace.json",
+            "profile_info": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/11981145?v=4",
+                "bio": null,
+                "blog": "",
+                "company": null,
+                "created_at": "2015-04-16T15:47:25Z",
+                "email": null,
+                "followers": 0,
+                "html_url": "https://github.com/learp",
+                "location": null,
+                "login": "learp",
+                "name": null,
+                "organisations": [],
+                "public_repos": 11,
+                "repos_url": "https://github.com/learp?tab=repositories"
+            },
+            "sha": "c17aecd6bbec418805643c57b149f445b7bfc943",
+            "update_date": 1519493988000
+        },
         "mbostock": {
             "data_url": "https://raw.githubusercontent.com/kinmanz/GitFaceCV-storage/master/CVs/mbostock.GitFace.json",
             "profile_info": {
@@ -227,5 +248,5 @@
             "update_date": 1496593392000
         }
     },
-    "records": 6
+    "records": 7
 }
