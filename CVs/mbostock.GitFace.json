@@ -4,7 +4,7 @@
             "createdAt": "2012-11-16T01:23:44Z",
             "description": "An extension of GeoJSON that encodes topology! \ud83c\udf10",
             "forks": {
-                "totalCount": 614
+                "totalCount": 615
             },
             "homepageUrl": "",
             "id": "MDEwOlJlcG9zaXRvcnk2NzE0NjYz",
@@ -31,11 +31,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 3224
+                "totalCount": 3226
             },
             "statistic": {
                 "adds": 38725,
-                "ball": 19.30077029944768,
+                "ball": 19.304972229894194,
                 "dels": 39139,
                 "len_weeks": 64,
                 "total_commits": 512,
@@ -426,10 +426,10 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-06T10:35:20Z",
+            "updatedAt": "2018-04-10T21:30:41Z",
             "url": "https://github.com/topojson/topojson",
             "watchers": {
-                "totalCount": 178
+                "totalCount": 179
             }
         },
         {
@@ -509,7 +509,7 @@
                             "id": "MDg6TGFuZ3VhZ2UxNDA=",
                             "name": "JavaScript"
                         },
-                        "size": 1477411
+                        "size": 1483299
                     },
                     {
                         "node": {
@@ -531,11 +531,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 8459
+                "totalCount": 8471
             },
             "statistic": {
                 "adds": 8,
-                "ball": 5.544798096005521,
+                "ball": 5.547359940723819,
                 "dels": 5,
                 "len_weeks": 1,
                 "total_commits": 1,
@@ -548,10 +548,10 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-10T09:13:13Z",
+            "updatedAt": "2018-04-12T09:09:21Z",
             "url": "https://github.com/mishoo/UglifyJS2",
             "watchers": {
-                "totalCount": 283
+                "totalCount": 282
             }
         },
         {
@@ -651,11 +651,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 49
+                "totalCount": 50
             },
             "statistic": {
                 "adds": 2304,
-                "ball": 3.5307700696691477,
+                "ball": 3.552513169549151,
                 "dels": 1492,
                 "len_weeks": 14,
                 "total_commits": 109,
@@ -746,7 +746,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-03-28T20:25:40Z",
+            "updatedAt": "2018-04-10T12:02:04Z",
             "url": "https://github.com/d3/d3-brush",
             "watchers": {
                 "totalCount": 11
@@ -1852,7 +1852,7 @@
             "createdAt": "2015-11-03T20:35:53Z",
             "description": "Force-directed graph layout using velocity Verlet integration.",
             "forks": {
-                "totalCount": 126
+                "totalCount": 128
             },
             "homepageUrl": "",
             "id": "MDEwOlJlcG9zaXRvcnk0NTQ5MzkwNQ==",
@@ -1879,11 +1879,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 367
+                "totalCount": 370
             },
             "statistic": {
                 "adds": 2672,
-                "ball": 8.212766774439936,
+                "ball": 8.24277938006037,
                 "dels": 1459,
                 "len_weeks": 25,
                 "total_commits": 205,
@@ -2040,7 +2040,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-07T17:23:37Z",
+            "updatedAt": "2018-04-12T07:08:48Z",
             "url": "https://github.com/d3/d3-force",
             "watchers": {
                 "totalCount": 31
@@ -2077,11 +2077,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 68
+                "totalCount": 69
             },
             "statistic": {
                 "adds": 1721,
-                "ball": 3.89398750444295,
+                "ball": 3.9124204131658096,
                 "dels": 251,
                 "len_weeks": 16,
                 "total_commits": 39,
@@ -2184,7 +2184,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-09T11:12:52Z",
+            "updatedAt": "2018-04-10T10:21:31Z",
             "url": "https://github.com/d3/d3-collection",
             "watchers": {
                 "totalCount": 10
@@ -3168,7 +3168,7 @@
             "createdAt": "2013-02-09T22:33:15Z",
             "description": "A cross-platform streaming parser for the ESRI Shapefile spatial data format.",
             "forks": {
-                "totalCount": 81
+                "totalCount": 82
             },
             "homepageUrl": "",
             "id": "MDEwOlJlcG9zaXRvcnk4MTE2MDg2",
@@ -3195,11 +3195,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 412
+                "totalCount": 413
             },
             "statistic": {
                 "adds": 5589,
-                "ball": 9.127875520060307,
+                "ball": 9.141744594321054,
                 "dels": 4433,
                 "len_weeks": 25,
                 "total_commits": 192,
@@ -3356,7 +3356,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-08T07:37:37Z",
+            "updatedAt": "2018-04-12T10:06:31Z",
             "url": "https://github.com/mbostock/shapefile",
             "watchers": {
                 "totalCount": 33
@@ -3366,7 +3366,7 @@
             "createdAt": "2016-03-03T17:49:37Z",
             "description": "Geographic projections, spherical shapes and spherical trigonometry.",
             "forks": {
-                "totalCount": 81
+                "totalCount": 82
             },
             "homepageUrl": "",
             "id": "MDEwOlJlcG9zaXRvcnk1MzA3MDkwMQ==",
@@ -3401,11 +3401,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 287
+                "totalCount": 288
             },
             "statistic": {
                 "adds": 9101,
-                "ball": 9.833379042352986,
+                "ball": 9.858152510302176,
                 "dels": 4923,
                 "len_weeks": 35,
                 "total_commits": 257,
@@ -3622,10 +3622,10 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-07T14:21:42Z",
+            "updatedAt": "2018-04-11T02:04:44Z",
             "url": "https://github.com/d3/d3-geo",
             "watchers": {
-                "totalCount": 31
+                "totalCount": 32
             }
         },
         {
@@ -3904,11 +3904,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 127
+                "totalCount": 128
             },
             "statistic": {
                 "adds": 3458,
-                "ball": 5.954670461921284,
+                "ball": 5.966552233479446,
                 "dels": 2473,
                 "len_weeks": 29,
                 "total_commits": 197,
@@ -4089,7 +4089,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-07T21:49:24Z",
+            "updatedAt": "2018-04-11T16:45:49Z",
             "url": "https://github.com/d3/d3-zoom",
             "watchers": {
                 "totalCount": 17
@@ -4099,7 +4099,7 @@
             "createdAt": "2016-09-09T00:21:12Z",
             "description": "Command line tools for operating on newline-delimited JSON streams.",
             "forks": {
-                "totalCount": 12
+                "totalCount": 13
             },
             "homepageUrl": null,
             "id": "MDEwOlJlcG9zaXRvcnk2Nzc1MDM2MA==",
@@ -4126,11 +4126,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 159
+                "totalCount": 160
             },
             "statistic": {
                 "adds": 1418,
-                "ball": 4.463465415937291,
+                "ball": 4.487005187989505,
                 "dels": 403,
                 "len_weeks": 5,
                 "total_commits": 72,
@@ -4167,7 +4167,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-03-28T02:44:55Z",
+            "updatedAt": "2018-04-12T10:05:37Z",
             "url": "https://github.com/mbostock/ndjson-cli",
             "watchers": {
                 "totalCount": 9
@@ -4204,11 +4204,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 1363
+                "totalCount": 1364
             },
             "statistic": {
                 "adds": 2511,
-                "ball": 10.579702983888588,
+                "ball": 10.581078550945566,
                 "dels": 1478,
                 "len_weeks": 28,
                 "total_commits": 156,
@@ -4383,7 +4383,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-10T05:48:32Z",
+            "updatedAt": "2018-04-10T18:36:27Z",
             "url": "https://github.com/d3/d3-queue",
             "watchers": {
                 "totalCount": 64
@@ -4423,11 +4423,11 @@
                 "totalCount": 239
             },
             "statistic": {
-                "adds": 2678,
-                "ball": 6.126254718521616,
-                "dels": 1655,
-                "len_weeks": 11,
-                "total_commits": 46,
+                "adds": 2680,
+                "ball": 6.126769787944507,
+                "dels": 1658,
+                "len_weeks": 12,
+                "total_commits": 47,
                 "weeks": [
                     {
                         "a": 1244,
@@ -4494,10 +4494,16 @@
                         "c": 4,
                         "d": 34,
                         "w": 1517097600
+                    },
+                    {
+                        "a": 2,
+                        "c": 1,
+                        "d": 3,
+                        "w": 1523145600
                     }
                 ]
             },
-            "updatedAt": "2018-04-08T20:57:00Z",
+            "updatedAt": "2018-04-10T19:25:42Z",
             "url": "https://github.com/d3/d3-scale-chromatic",
             "watchers": {
                 "totalCount": 17
@@ -4842,11 +4848,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 12315
+                "totalCount": 12339
             },
             "statistic": {
                 "adds": 161,
-                "ball": 11.950896422759199,
+                "ball": 11.954820713536932,
                 "dels": 11,
                 "len_weeks": 5,
                 "total_commits": 13,
@@ -4883,10 +4889,10 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-10T09:04:31Z",
+            "updatedAt": "2018-04-12T09:27:08Z",
             "url": "https://github.com/rollup/rollup",
             "watchers": {
-                "totalCount": 251
+                "totalCount": 252
             }
         },
         {
@@ -4920,11 +4926,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 113
+                "totalCount": 114
             },
             "statistic": {
                 "adds": 2903,
-                "ball": 5.328153947020393,
+                "ball": 5.340427490844642,
                 "dels": 1313,
                 "len_weeks": 18,
                 "total_commits": 178,
@@ -5039,7 +5045,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-03-07T21:37:34Z",
+            "updatedAt": "2018-04-11T01:44:42Z",
             "url": "https://github.com/d3/d3-drag",
             "watchers": {
                 "totalCount": 15
@@ -5295,7 +5301,7 @@
             "createdAt": "2015-07-15T18:01:35Z",
             "description": "2D layout algorithms for visualizing hierarchical data.",
             "forks": {
-                "totalCount": 103
+                "totalCount": 104
             },
             "homepageUrl": "",
             "id": "MDEwOlJlcG9zaXRvcnkzOTE1MjQwMA==",
@@ -5322,11 +5328,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 239
+                "totalCount": 242
             },
             "statistic": {
                 "adds": 20352,
-                "ball": 11.250406924219948,
+                "ball": 11.280138084745039,
                 "dels": 11420,
                 "len_weeks": 39,
                 "total_commits": 320,
@@ -5567,7 +5573,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-09T10:55:55Z",
+            "updatedAt": "2018-04-10T16:37:45Z",
             "url": "https://github.com/d3/d3-hierarchy",
             "watchers": {
                 "totalCount": 27
@@ -5620,11 +5626,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 157
+                "totalCount": 158
             },
             "statistic": {
                 "adds": 846386,
-                "ball": 18.646828045957974,
+                "ball": 18.655414307799777,
                 "dels": 113292,
                 "len_weeks": 186,
                 "total_commits": 1073,
@@ -6747,7 +6753,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-03-22T22:18:59Z",
+            "updatedAt": "2018-04-10T14:43:00Z",
             "url": "https://github.com/d3/d3.github.com",
             "watchers": {
                 "totalCount": 46
@@ -7770,7 +7776,7 @@
             "createdAt": "2010-09-27T17:22:42Z",
             "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
             "forks": {
-                "totalCount": 18599
+                "totalCount": 18622
             },
             "homepageUrl": "https://d3js.org",
             "id": "MDEwOlJlcG9zaXRvcnk5NDMxNDk=",
@@ -7797,11 +7803,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 74640
+                "totalCount": 74717
             },
             "statistic": {
                 "adds": 301172,
-                "ball": 36.30610379478654,
+                "ball": 36.31062349415053,
                 "dels": 273652,
                 "len_weeks": 251,
                 "total_commits": 2330,
@@ -9314,17 +9320,17 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-10T10:17:36Z",
+            "updatedAt": "2018-04-12T10:05:09Z",
             "url": "https://github.com/d3/d3",
             "watchers": {
-                "totalCount": 3669
+                "totalCount": 3675
             }
         },
         {
             "createdAt": "2015-12-03T09:25:01Z",
             "description": "Visualize flow between nodes in a directed acyclic network.",
             "forks": {
-                "totalCount": 82
+                "totalCount": 83
             },
             "homepageUrl": "https://bl.ocks.org/mbostock/ca9a0bb7ba204d12974bca90acc507c0",
             "id": "MDEwOlJlcG9zaXRvcnk0NzMyMTU1NQ==",
@@ -9351,11 +9357,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 216
+                "totalCount": 218
             },
             "statistic": {
                 "adds": 2228,
-                "ball": 6.807072754821897,
+                "ball": 6.83096794779522,
                 "dels": 730,
                 "len_weeks": 9,
                 "total_commits": 39,
@@ -9416,7 +9422,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-09T16:28:54Z",
+            "updatedAt": "2018-04-11T15:51:25Z",
             "url": "https://github.com/d3/d3-sankey",
             "watchers": {
                 "totalCount": 25
@@ -10107,11 +10113,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 107
+                "totalCount": 108
             },
             "statistic": {
                 "adds": 4941,
-                "ball": 6.272704651816633,
+                "ball": 6.286508923924659,
                 "dels": 2796,
                 "len_weeks": 35,
                 "total_commits": 128,
@@ -10328,7 +10334,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-03-20T04:08:20Z",
+            "updatedAt": "2018-04-11T07:49:03Z",
             "url": "https://github.com/d3/d3-time-format",
             "watchers": {
                 "totalCount": 14
@@ -10467,11 +10473,11 @@
                 "name": "JavaScript"
             },
             "stargazers": {
-                "totalCount": 1594
+                "totalCount": 1597
             },
             "statistic": {
                 "adds": 13706,
-                "ball": 14.448800927332067,
+                "ball": 14.453812585521572,
                 "dels": 8174,
                 "len_weeks": 31,
                 "total_commits": 382,
@@ -10664,10 +10670,10 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-10T10:20:58Z",
+            "updatedAt": "2018-04-12T09:43:29Z",
             "url": "https://github.com/d3/d3-shape",
             "watchers": {
-                "totalCount": 55
+                "totalCount": 56
             }
         },
         {
@@ -10896,9 +10902,9 @@
         }
     ],
     "summary": {
-        "total_adds": 1673136,
-        "total_ball": 325.86140904891397,
-        "total_commits": 9607,
-        "total_dels": 824033
+        "total_adds": 1673138,
+        "total_ball": 326.116062240206,
+        "total_commits": 9608,
+        "total_dels": 824036
     }
 }
