@@ -3197,11 +3197,11 @@
                 "name": "Python"
             },
             "stargazers": {
-                "totalCount": 132
+                "totalCount": 133
             },
             "statistic": {
                 "adds": 271,
-                "ball": 2.6966927154556894,
+                "ball": 2.705029397134305,
                 "dels": 159,
                 "len_weeks": 13,
                 "total_commits": 36,
@@ -3286,7 +3286,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-12T10:41:53Z",
+            "updatedAt": "2018-04-13T14:24:13Z",
             "url": "https://github.com/ros/catkin",
             "watchers": {
                 "totalCount": 38
@@ -4721,11 +4721,11 @@
                 "name": "Python"
             },
             "stargazers": {
-                "totalCount": 700
+                "totalCount": 701
             },
             "statistic": {
                 "adds": 14651,
-                "ball": 19.704832942353462,
+                "ball": 19.707308690860483,
                 "dels": 173486,
                 "len_weeks": 67,
                 "total_commits": 543,
@@ -5134,7 +5134,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-12T09:50:47Z",
+            "updatedAt": "2018-04-13T14:24:16Z",
             "url": "https://github.com/ros/ros",
             "watchers": {
                 "totalCount": 152
@@ -8015,7 +8015,7 @@
                     }
                 ]
             },
-            "updatedAt": "2018-04-13T13:51:43Z",
+            "updatedAt": "2018-04-13T15:39:05Z",
             "url": "https://github.com/ros/rosdistro",
             "watchers": {
                 "totalCount": 60
@@ -8024,7 +8024,7 @@
     ],
     "summary": {
         "total_adds": 351350,
-        "total_ball": 129.43097309423013,
+        "total_ball": 129.44178552441576,
         "total_commits": 3694,
         "total_dels": 248594
     }
